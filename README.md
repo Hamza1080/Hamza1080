@@ -5,15 +5,15 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+  <a href="https://www.linkedin.com/in/hamza-zahid-1bb075285/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
-  <a href="https://YOUR_PORTFOLIO_URL">
+  <a href="https://hamza-zahid-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   &nbsp;
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:Hamzazahid1080@gmail.com">
     <img src="https://img.shields.io/badge/Email-6e40c9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
